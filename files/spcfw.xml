@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <ForceField name="spcfw-water" version="0.0.1">
-  <FFMetaData electrostatics14Scale="0.833333333" nonBonded14Scale="0.5" combiningRule="lorentz">
+  <FFMetaData electrostatics14Scale="0.833333333" nonBonded14Scale="0.5" combiningRule="geometric">
     <Units energy="kJ/mol" mass="amu" charge="elementary_charge" distance="nm"/>
   </FFMetaData>
   <AtomTypes expression="4*epsilon*((sigma/r)**12 - (sigma/r)**6)">

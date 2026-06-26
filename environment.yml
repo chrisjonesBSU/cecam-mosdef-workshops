@@ -2,10 +2,10 @@ name: mosdef
 channels:
   - conda-forge
 dependencies:
-  - python>=3.12
+  - python=3.12
   - boltons
   - numba
-  - numpy>=2.0
+  - numpy>2.0,<2.3
   - sympy
   - unyt>=2.9.5
   - lark>=1.2
@@ -36,7 +36,7 @@ dependencies:
   - symengine
   - python-symengine
   - py3Dmol
-  - hoomd>=4.0
+  - hoomd>=6.0
   - pip:
       - git+https://github.com/mosdef-hub/gmso.git@main
       - git+https://github.com/mosdef-hub/foyer.git@main
