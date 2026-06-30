@@ -4,6 +4,7 @@
 *.lammps*
 *.data*
 *.mol2
+*.top*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
