@@ -38,7 +38,7 @@ dependencies:
   - py3Dmol
   - hoomd>=6.0
   - pip:
-      - git+https://github.com/mosdef-hub/gmso.git@main
+      - git+https://github.com/chrisjonesBSU/gmso.git@cecam
       - git+https://github.com/mosdef-hub/foyer.git@main
       - git+https://github.com/mosdef-hub/forcefield-utilities.git@main
       - git+https://github.com/mosdef-hub/mbuild.git@develop
