@@ -5,7 +5,7 @@ MoSDeF is a suite of open-source Python tools that enable extensible and reprodu
 
 MoSDeF includes: [mBuild](https://github.com/mosdef-hub/mbuild) | [GMSO](https://github.com/mosdef-hub/gmso.git) | [Foyer](https://github.com/mosdef-hub/foyer.git)
 <p align="center">
-  <img src="mosdef.png" alt="mosdef" width="300" height="400">
+  <img src="mosdef.png" alt="mosdef" height="500">
 </p>
 
 # How To Use:
