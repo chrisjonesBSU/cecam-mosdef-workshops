@@ -45,3 +45,5 @@ Using MoSDeF: All three packages are available on conda forge:
 The documentatin for each package is available on their repositories.
 
 Issues, questions and contributions are welcome! Visit the GitHub repositories and open an issue with any question or technical barriers you are facing. Open a pull-request to make upstream contributions. If you would like to discuss in more detail over email, please send an email to **c.jones_1@hw.ac.uk**.
+
+GitHub Repos: [mBuild](https://github.com/mosdef-hub/mbuild) | [GMSO](https://github.com/mosdef-hub/gmso.git) | [Foyer](https://github.com/mosdef-hub/foyer.git)
