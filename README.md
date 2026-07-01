@@ -10,7 +10,7 @@ This launches a remotely-hosted Jupyter Notebook instance with everything ready-
 
 
 ## Use Locally:
-If you are on a MacOS or Linux machine, and already have the anaconda package manager installed, you can choose to build the environment and run the notebooks locally.
+If you are on a MacOS or Linux machine, and already have the anaconda package manager installed, you can choose to build the environment and run the notebooks locally. It is possible that the notebooks run faster locally than using Binder. If you are on Windows and want to use run these locally, you will have to use Windows Subsystem for Linux (WSL).
 
 In your terminal run:
 
@@ -24,3 +24,10 @@ cd notebooks
 jupyter lab
 ```
 
+**Note:** The git clone command above works if your have an SSH key set up. If not you can clone with HTTPS:
+
+`git clone https://github.com/chrisjonesBSU/cecam-mosdef-workshops.git`
+
+This may prompt you for your GitHub login information.
+
+---
