@@ -37,7 +37,7 @@ dependencies:
   - python-symengine=0.14.1
   - py3Dmol=2.5.4
   - hoomd=7.1.0
-  - jupyter
+  - jupyterlab
   - pip:
       - git+https://github.com/chrisjonesBSU/gmso.git@cecam
       - git+https://github.com/mosdef-hub/foyer.git@main
