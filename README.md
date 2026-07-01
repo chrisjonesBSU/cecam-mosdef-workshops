@@ -1,7 +1,5 @@
 # cecam-mosdef-workshops
-Workshops for the [Molecular Simulation and Design Framework (MoSDeF)](https://mosdef.org/).
-
-MoSDeF is a suite of open-source Python tools that enable extensible and reproducible molecular simulations. 
+Workshops for the [Molecular Simulation and Design Framework (MoSDeF)](https://mosdef.org/). MoSDeF is a suite of open-source Python tools that enable extensible and reproducible molecular simulations. 
 
 MoSDeF includes: [mBuild](https://github.com/mosdef-hub/mbuild) | [GMSO](https://github.com/mosdef-hub/gmso.git) | [Foyer](https://github.com/mosdef-hub/foyer.git)
 <p align="center">
