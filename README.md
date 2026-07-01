@@ -6,7 +6,7 @@ MoSDeF includes: [mBuild](https://github.com/mosdef-hub/mbuild) | [GMSO](https:/
   <img src="mosdef.png" alt="mosdef" height="450">
 </p>
 
-# How To Use:
+# How run these tutorials:
 
 ## Use binder:
 Click: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/chrisjonesBSU/cecam-mosdef-workshops/main)   
