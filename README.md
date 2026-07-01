@@ -5,7 +5,7 @@ MoSDeF is a suite of open-source Python tools that enable extensible and reprodu
 
 MoSDeF includes: [mBuild](https://github.com/mosdef-hub/mbuild) | [GMSO](https://github.com/mosdef-hub/gmso.git) | [Foyer](https://github.com/mosdef-hub/foyer.git)
 <p align="center">
-  <img src="mosdef.png" alt="mosdef" height="500">
+  <img src="mosdef.png" alt="mosdef" height="450">
 </p>
 
 # How To Use:
@@ -17,12 +17,11 @@ This launches a remotely-hosted Jupyter Notebook instance with everything ready-
 
 
 ## Use Locally:
-If you are on a MacOS or Linux machine, and already have the anaconda package manager installed, you can choose to build the environment and run the notebooks locally. It is possible that the notebooks run faster locally than using Binder. If you are on Windows and want to use run these locally, you will have to use Windows Subsystem for Linux (WSL).
+If you are on a MacOS or Linux machine, and already have the anaconda package manager installed, you can choose to build the environment and run the notebooks locally. It is possible that the notebooks run faster locally than using Binder. If you are on Windows and want to use run these locally, you will have to run the commands below within Windows Subsystem for Linux (WSL).
 
 In your terminal run:
 
-
-```
+```bash
 git clone git@github.com:chrisjonesBSU/cecam-mosdef-workshops.git
 cd cecam-mosdef-workshops
 conda env create -f environment.yml
@@ -31,7 +30,7 @@ cd notebooks
 jupyter lab
 ```
 
-**Note:** The git clone command above works if your have an SSH key set up. If not you can clone with HTTPS:
+**Note:** The git clone command above works if you have an SSH key set up. If not you can clone with HTTPS:
 
 `git clone https://github.com/chrisjonesBSU/cecam-mosdef-workshops.git`
 
