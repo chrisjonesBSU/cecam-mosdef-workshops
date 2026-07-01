@@ -35,3 +35,11 @@ jupyter lab
 This may prompt you for your GitHub login information.
 
 ---
+
+# Beyond The Workshop:
+
+Using MoSDeF: All three packages are available on conda forge:
+
+`conda create -n mosdef -c conda-forge mbuild foyer gmso`
+
+Issues, questions and contributions are welcome! Visit the GitHub repositories and open an issue with any question or technical barriers you are facing. Open a pull-request to make upstream contributions. If you would rather discuss MoSDeF over email, please send an email to **c.jones_1@hw.ac.uk**.
